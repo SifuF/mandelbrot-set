@@ -1,3 +1,5 @@
+//mandelbrot set .ppm/.pgm image generator by SifuF
+
 #include<iostream>
 #include<fstream>
 
